@@ -51,3 +51,21 @@ npm start
 
 # Open your browser at:
 http://localhost:3000
+
+---
+
+## 🧠 Developer Notes
+
+This project was built as part of a take-home assignment focusing on:
+- Understanding API integration with React
+- Clean and reusable component structure
+- Writing meaningful documentation for easy collaboration
+
+---
+
+## 🧑‍💻 Author
+
+**Mustaq Ahmed**  
+📧 [mustaqahmedm88@gmail.com](mailto:mustaqahmedm88@gmail.com)  
+🔗 GitHub: [MustaqAhmed88](https://github.com/MustaqAhmed88)
+
