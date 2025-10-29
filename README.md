@@ -1,74 +1,53 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
+# 📚 Alex Book Finder
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to [Alex Book Finder](https://github.com/MustaqAhmed88/Alex-BookFinder) —  
+A React web application built to help users quickly search and explore books using the Open Library API.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🎯 Project Description
 
-### `npm start`
+This project was created to solve the common problem of **finding relevant books quickly** — whether for study, research or personal interest.  
+With Alex Book Finder you can search by title or author, view book covers, authors, publication years and additional metadata — all in a clean, intuitive UI.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## ✅ Key Features
 
-### `npm test`
+- 🔍 Search functionality by **title** or **author**  
+- 🎨 Display of book cover images and key metadata  
+- ⚡ Fast, responsive interface powered by React  
+- 🌐 Integration with the Open Library Search API  
+- 🧠 Designed with simplicity and usability in mind  
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## 🧰 Technologies Used
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **Frontend:** React.js  
+- **Language:** JavaScript (ES6+)  
+- **Styling / UI:** CSS and optionally a framework (Bootstrap / Tailwind)  
+- **API:** Open Library Search API  
+- **Version Control:** Git & GitHub  
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## ⚙️ Setup & Installation
 
-### `npm run eject`
+To run this project locally:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```bash
+# Clone the repository
+git clone https://github.com/MustaqAhmed88/Alex-BookFinder.git
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Change directory
+cd Alex-BookFinder
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+# Install dependencies
+npm install
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+# Start development server
+npm start
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# Alex-BookFinder
->>>>>>> 9061062660a2b50bd2663b32ead35476a141372c
+# Open your browser at:
+http://localhost:3000
